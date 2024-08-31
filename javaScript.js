@@ -13,8 +13,7 @@ const audio = [
     title: "Symphony",
     singer: "Clean Bandit",
     img: "./image/images.jpeg",
-    description:
-      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Clean Bandit - Symphony (Lyrics_Vietsub) feat. Zara Larsson(MP3_160K).mp3",
   },
   {
@@ -22,8 +21,7 @@ const audio = [
     title: "Shape of You",
     singer: "Ed Sheeran",
     img: "./image/images(1).jpeg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Ed Sheeran - Shape Of You (Lyrics)(M4A_128K).m4a",
   },
   {
@@ -31,8 +29,7 @@ const audio = [
     title: "Believer",
     singer: "Imagine Dragons",
     img: "./image/maxresdefault(1).jpg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Imagine Dragons - Believer (Lyrics)(M4A_128K).m4a",
   },
   {
@@ -40,8 +37,7 @@ const audio = [
     title: "Happy",
     singer: "Pharrell Williams",
     img: "./image/images(2).jpeg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Pharrell Williams - Happy (Video)(M4A_128K).m4a",
   },
   {
@@ -49,8 +45,7 @@ const audio = [
     title: "Low",
     singer: "Flo Rida",
     img: "./image/images(3).jpeg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Flo Rida - Low (feat. T-Pain) [from Step Up 2 The Streets O.S.T. _ Mail On Sunday] (Official Video)(M4A_128K).m4a",
   },
   {
@@ -58,8 +53,7 @@ const audio = [
     title: "Venom",
     singer: "Eminem",
     img: "./image/images(4).jpeg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Eminem - Venom(M4A_128K).m4a",
   },
   {
@@ -67,8 +61,7 @@ const audio = [
     title: "Till I Collapse",
     singer: "Eminem",
     img: "./image/maxresdefault(2).jpg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Till I Collapse(M4A_128K).m4a",
   },
   {
@@ -76,8 +69,7 @@ const audio = [
     title: "Rockabye",
     singer: "Anne-Marie",
     img: "./image/sddefault.jpg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Rockabye - Clean Bandit ft. Sean Paul _ Anne-Marie (Lyrics_Vietsub)(M4A_128K).m4a",
   },
   {
@@ -85,8 +77,7 @@ const audio = [
     title: "Sickick",
     singer: "Infected",
     img: "./image/images(6).jpeg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Sickick - Infected (lyrics)(M4A_128K).m4a",
   },
   {
@@ -94,8 +85,7 @@ const audio = [
     title: "Go Down Deh",
     singer: "Spice_ Sean Paul_ Shaggy",
     img: "./image/maxresdefault(3).jpg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Spice_ Sean Paul_ Shaggy - Go Down Deh _ Official Music Video(M4A_128K).m4a",
   },
   {
@@ -103,8 +93,7 @@ const audio = [
     title: "SAFARİ",
     singer: "Serena",
     img: "./image/hqdefault.jpg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/SAFARİ - Serena (Lyrics_Vietsub)(M4A_128K).m4a",
   },
   {
@@ -112,8 +101,7 @@ const audio = [
     title: "See You Again",
     singer: "Wiz Khalifa",
     img: "./image/maxresdefault(4).jpg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack(M4A_128K).m4a",
   },
   {
@@ -121,23 +109,21 @@ const audio = [
     title: "Gangsta_s Paradise",
     singer: "Coolio",
     img: "./image/maxresdefault(5).jpg",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste temporibus, hic aspernatur illo dolores doloremque rem itaque consectetur incidunt dolore maxime dolor ab mollitia accusantium numquam expedita voluptatibus ad optio?",
+    description:"",
     link: "./music/Coolio - Gangsta_s Paradise (Official Music Video) [HD] ft. L.V(M4A_128K).m4a",
   },
   {
     id: 15,
     title: "Señorita",
-    singer: "",
+    singer: "Shawn Mendes_ Camila Cabello",
     img: "./image/maxresdefaulte(1).jpg",
-    description:
-      "",
+    description:"",
     link: "./music/New folder/Shawn Mendes_ Camila Cabello - Señorita مترجمة(M4A_128K).m4a",
   },
   {
     id: 16,
     title: "Thunder",
-    singer: "",
+    singer: "Imagine Dragons",
     img: "./image/maxresdefaultThu(3).jpg",
     description:"",
     link: "./music/New folder/Imagine Dragons - Thunder(M4A_128K).m4a",
@@ -145,7 +131,7 @@ const audio = [
   {
     id: 17,
     title: "lovely",
-    singer: "",
+    singer: "Billie Eilish_ Khalid",
     img: "./image/maxresdefaultLove(4).jpg",
     description:"",
     link: "./music/New folder/Billie Eilish_ Khalid - lovely(M4A_128K).m4a",
@@ -153,7 +139,7 @@ const audio = [
   {
     id: 18,
     title: "In Da Club",
-    singer: "",
+    singer: "50 Cent_ Fity Cent",
     img: "./image/maxresdefaulte(2).jpg",
     description:"",
     link: "./music/New folder/50 Cent - In Da Club (Official Music Video)(M4A_128K).m4a",
@@ -161,18 +147,10 @@ const audio = [
   {
     id: 19,
     title: "Can_t Be Touched",
-    singer: "",
+    singer: "Roy Jones",
     img: "./image/sddefault(2).jpg",
     description:"",
     link: "./music/New folder/Roy Jones - Can_t Be Touched (HQ_Dirty)(M4A_128K).m4a",
-  },
-  {
-    id: 20,
-    title: "روقان",
-    singer: "",
-    img: "./image/maxresdefaultRwa(1).jpg",
-    description:"",
-    link: "./music/New folder/اغنيه ( روقان ) حوده بندق - من مسلسل رحيل بطوله ياسمين صبري و احمد صلاح حسني الحلقه 8(M4A_128K).m4a",
   },
 ];
 
